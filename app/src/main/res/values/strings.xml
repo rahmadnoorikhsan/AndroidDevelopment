@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Android Development</string>
+    <string name="class_name">Nama Kelas</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="description_title">Deskripsi Kelas</string>
+    <string name="name_profile">Rahmad Noor Ikhsan</string>
+    <string name="text_email">rajaikhsan2021@gmail.com</string>
+    <string name="title_activity_about">Profile</string>
+    <string name="share">Share</string>
+    <string name="target_dan_sasaran_siswa">Target dan Sasaran Siswa</string>
+
+    <string-array name="data_name">
+        <item>Memulai Dasar Pemrograman untuk Menjadi Pengembang Software</item>
+        <item>Pengenalan ke Logika Pemrograman (Programming Logic 101)</item>
+        <item>Belajar Dasar Git dengan GitHub</item>
+        <item>Memulai Pemrograman Dengan Kotlin</item>
+        <item>Belajar Membuat Aplikasi Android untuk Pemula</item>
+        <item>Belajar Dasar UX Design</item>
+        <item>Belajar Fundamental Aplikasi Android</item>
+        <item>Belajar Pengembangan Aplikasi Android Intermediate</item>
+        <item>Belajar Prinsip Pemrograman SOLID</item>
+        <item>Menjadi Android Developer Expert</item>
+        <item>Belajar Membuat Aplikasi Android dengan Jetpack Compose</item>
+        <item>Simulasi Ujian Associate Android Developer</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>4.87</item>
+        <item>4.92</item>
+        <item>4.89</item>
+        <item>4.84</item>
+        <item>4.88</item>
+        <item>4.89</item>
+        <item>4.87</item>
+        <item>4.79</item>
+        <item>4.87</item>
+        <item>4.81</item>
+        <item>4.88</item>
+        <item>5.00</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pelajari langkah menjadi pengembang software dari tahapan analisis dan perencanaan sampai modifikasi perangkat lunak beserta dokumentasi.</item>
+        <item>Pelajari logika-logika dasar dalam pemrograman dimulai dari jenis-jenis logika pemrograman, gerbang logika, hingga computational thinking.</item>
+        <item>Pelajari cara mengelola data atau kode menggunakan Git dengan GitHub, mulai dari dasar-dasar Git hingga berkolaborasi dengan tim.</item>
+        <item>Pelajari dasar bahasa pemrograman, functional programming, object-oriented programming (OOP), serta concurrency dengan menggunakan Kotlin.</item>
+        <item>Buat aplikasi pertamamu pada Android Studio dengan mempelajari dasar Activity, Intent, View dan ViewGroup, Style dan Theme sampai RecyclerView.</item>
+        <item>Belajar membuat User Experience yang menarik dan menyenangkan menggunakan Design Thinking, mulai dari mencari masalah hingga membuat solusi.</item>
+        <item>Pelajari skill Android dengan kurikulum terlengkap yang dibutuhkan perusahaan. Mulai dari UI/UX, background process, API sampai database.</item>
+        <item>Tingkatkan pengalaman pengguna dengan mempelajari Custom View, Animation, Localization, Media, Location, Testing, dan Advanced Database.</item>
+        <item>Pelajari kelima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada pemrograman berorientasi objek (OOP).</item>
+        <item>Saatnya menjadi Android Expert dengan belajar Clean Architecture, Reactive, Dependency Injection, Modularization, Performance, dan Security.</item>
+        <item>Saatnya mendesain UI dengan lebih mudah cepat dan mudah dengan menggunakan Jetpack Compose, cara modern untuk membuat layout di Android.</item>
+        <item>Latihan ujian sebagai persiapan pengambilan ujian sertifikasi Associate Android Developer pada program Google Developers Certification.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/pengembang</item>
+        <item>@drawable/logic</item>
+        <item>@drawable/github</item>
+        <item>@drawable/kotlin</item>
+        <item>@drawable/pemula</item>
+        <item>@drawable/ux_desain</item>
+        <item>@drawable/fundamental</item>
+        <item>@drawable/intermediate</item>
+        <item>@drawable/solid</item>
+        <item>@drawable/expert</item>
+        <item>@drawable/jetpack_compose</item>
+        <item>@drawable/simulasi_aad</item>
+    </integer-array>
+
+    <string-array name="data_description_class">
+        <item>Seorang pengembang software sesuai standar klasifikasi okupasi KBJI itu dapat meneliti, menganalisis, dan mengevaluasi persyaratan untuk aplikasi. Tugasnya meliputi: meneliti, menganalisis, dan mengevaluasi persyaratan untuk aplikasi perangkat lunak dan sistem operasi baik yang telah ada atau yang baru; memodifikasi perangkat lunak yang ada untuk memperbaiki kesalahan, menyesuaikannya dengan hardware baru atau untuk meng-upgrade antarmuka dan meningkatkan kinerja; dan mengarahkan dokumentasi pemrograman dan pengembangan perangkat lunak.\n
+            • Okupasi ini termasuk salah satu dari 50 okupasi yang paling dibutuhkan dan dicari di Indonesia menurut laporan teknis dari Bank Dunia (World Bank).\n
+            • Okupasi ini adalah okupasi dengan predikat high-skilled (berketerampilan tinggi) sehingga merupakan jalur karier yang sangat menguntungkan.\n
+            • Menurut laporan teknis dari Bank Dunia (World Bank), 96% dari pemberi kerja merasa bahwa sertifikasi merupakan hal yang sangat berpengaruh dalam mencari karyawan untuk posisi okupasi berpredikat high-skilled (berketerampilan tinggi).\n
+            • Kurikulum berbasis okupasi ini merupakan salah satu standar pelatihan yang menjadi fokus pemerintah sebagai pelatihan yang sertifikasinya diakui dan distandarkan ke tingkat global.\n
+            • Pelatih berpengalaman dan bersertifikasi, cek informasi detail pelatih di sini.</item>
+        <item>Mengerti logika dan penerapannya dalam menyusun algoritma akan menjadi salah satu modal awal yang cukup untuk belajar pemrograman. Bidang pemrograman di Indonesia berpotensi mengalami pertumbuhan ekonomi tahunan yang menjanjikan melalui digitalisasi. Dengan mempelajari logika pemrograman yang disusun dalam algoritma terstruktur, Anda dapat menyelesaikan permasalahan dengan lebih cepat dan efisien baik di bidang pemrograman itu sendiri atau kehidupan sehari-hari.\n
+            • Pemrograman merupakan top skill yang dibutuhkan di era industri digital saat ini.\n
+            • Logika pemrograman dapat membantu Anda untuk lebih berpikir secara logis sehingga lebih efisien dalam pemecahan masalah.\n
+            • Dengan menerapkan logika pemrograman yang disertai algoritma yang tepat, Anda dapat menyelesaikan masalah dengan lebih terstruktur.\n
+            • Logika pemrograman adalah salah satu fondasi yang dapat membantu Anda melangkah lebih jauh di bidang pemrograman."</item>
+        <item>GitHub adalah layanan host web bersama yang menggunakan sistem kendali versi Git dan layanan hosting internet. GitHub memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, manajemen tugas, dan wiki untuk setiap proyek. GitHub menawarkan paket repositori pribadi dan gratis digunakan untuk proyek perangkat lunak open source (sumber terbuka). GitHub mempunyai lebih dari 40 juta pengguna dan 190 juta repositori yang menjadikannya layanan terbesar dari kode sumber di dunia.\n
+            • GitHub adalah solusi wadah atau alat untuk berkolaborasi dengan tim ketika mengembangkan sebuah proyek repository.\n
+            • GitHub dapat memuat profil dan proyek Anda sehingga dapat dijadikan portofolio dalam berkarier.\n
+            • GitHub memiliki ratusan juta public repository yang dapat dijadikan referensi dalam mengembangkan perangkat lunak.</item>
+        <item>Kotlin merupakan bahasa utama yang digunakan dalam pengembangan Android saat ini. Hal ini karena manfaat yang diberikan seperti ringkas, cepat, dan aman. Selain itu, sifatnya yang interoperability membuat developer bisa beralih dari bahasa Java ke Kotlin dengan cepat. Tak ayal, Google pernah melaporkan hampir 80% dari 1000 aplikasi teratas di Play Store menggunakan Kotlin. Selain pengembangan Android, Kotlin dapat digunakan untuk berbagai macam pengembangan, baik itu server, back-end, maupun website.\n
+            • Materi relevan dengan tools dan framework yang banyak dipakai sekarang.\n
+            • Dengan menggunakan Kotlin pengembangan aplikasi akan jauh lebih cepat.\n
+            • Pengembangan aplikasi menggunakan Kotlin bisa berjalan bersamaan dengan Java dalam satu project.\n
+            • Kotlin menjadi bahasa resmi yang direkomendasikan dalam pengembangan Android.\n
+            • Kotlin juga dapat digunakan untuk pengembangan platform selain seperti server, back-end, dan website.</item>
+        <item>Android merupakan sistem operasi mobile dengan pengguna terbesar di Indonesia, yakni sekitar 90%. Karena itulah banyak perusahaan yang membuat versi Android-nya supaya lebih dekat dengan pelanggannya, seperti Youtube, Facebook, dan Twitter. Perusahaan kecil pun turut membutuhkan aplikasi Android untuk menyelesaikan masalah yang ada. Ini juga menandakan bahwa kebutuhan akan Android developer semakin meningkat. Tak heran, profesi Android developer merupakan 1 dari 5 profesi yang paling diincar perusahaan.\n
+            • Sebagian besar masyarakat Indonesia memiliki handphone dengan Android sebagai sistem operasinya, ini merupakan potensi yang besar.\n
+            • Android terbukti menjadi solusi untuk permasalahan yang ada di masyarakat, sehingga bisa bermanfaat lebih luas.\n
+            • Banyak perusahaan yang membutuhkan Android Developer namun resource yang ada masih sangat sedikit, bahkan dinyatakan darurat.\n
+            • Menjadi Android Developer merupakan salah satu pekerjaan yang bisa dilakukan secara freelance, sehingga waktunya bisa lebih fleksibel.\n
+            • Android memiliki potensi yang besar untuk menghasilkan uang, seperti melalui iklan Admob, In-App purchase dan membuat proyek aplikasi.</item>
+        <item>User Experience (UX) merupakan hal yang sangat penting dalam membuat sebuah produk, baik dalam bentuk aplikasi mobile maupun website. Karena pada zaman sekarang, proses membuat produk itu relatif mudah. Selain itu, hampir setiap produk memiliki fungsi, harga, dan fitur yang mirip. Lantas, apa yang membuat orang memilih salah satu dari produk tersebut? Jawabannya adalah User Experience (UX) yang membuat nyaman pengguna.\n
+            • UX Designer merupakan salah satu pekerjaan yang paling cepat tumbuh akhir-akhir ini.\n
+            • UX Designer akan terus dibutuhkan sejalan dengan semakin banyaknya produk digital yang muncul.\n
+            • Kemampuan ini dapat dikuasai tanpa harus memiliki background khusus, seperti programming maupun desain. Semua orang bisa mempelajarinya.\n
+            • Dampak positif yang Anda lakukan akan langsung sangat terasa perbedaannya bagi pengguna maupun perusahaan.\n
+            • Anda dapat bekerja untuk menciptakan solusi dengan cara-cara yang kreatif dan menyenangkan.</item>
+        <item>Android merupakan sistem operasi mobile dengan pengguna terbesar di Indonesia, yakni sekitar 90%. Karena itulah banyak perusahaan yang membuat versi Android-nya supaya lebih dekat dengan pelanggannya, seperti Youtube, Facebook, dan Twitter. Perusahaan kecil pun turut membutuhkan aplikasi Android untuk menyelesaikan masalah yang ada. Ini juga menandakan bahwa kebutuhan akan Android developer semakin meningkat. Tak heran, profesi Android developer merupakan 1 dari 5 profesi yang paling diincar perusahaan.\n
+            • Sebagian besar masyarakat Indonesia memiliki handphone dengan Android sebagai sistem operasinya, ini merupakan potensi yang besar.\n
+            • Android terbukti menjadi solusi untuk permasalahan yang ada di masyarakat, sehingga bisa bermanfaat lebih luas.\n
+            • Banyak perusahaan yang membutuhkan Android Developer namun resource yang ada masih sangat sedikit, bahkan dinyatakan darurat.\n
+            • Menjadi Android Developer merupakan salah satu pekerjaan yang bisa dilakukan secara freelance, sehingga waktunya bisa lebih fleksibel.\n
+            • Android memiliki potensi yang besar untuk menghasilkan uang, seperti melalui iklan Admob, In-App purchase dan membuat proyek aplikasi.</item>
+        <item>Pernahkah terpikir di benak Anda, bagaimana Android Developer membuat aplikasi-aplikasi keren yang bisa membantu kegiatan sehari-hari. Mulai dari mengedit foto, memesan transportasi online, melacak aktivitas olahraga, sampai mencatat keuangan. Di dalam aplikasi tersebut, Android Developer perlu membuat berbagai macam fitur untuk memenuhi kebutuhan mereka. Kelas ini menjawab kebutuhan tersebut dengan membahas berbagai macam komponen yang lebih advance dengan UX yang lebih bervariasi.\n
+            • Komponen yang lebih advance diperlukan untuk memenuhi kebutuhan pengguna yang lebih bervariasi, seperti penggunaan Widget, Media, dan Maps.\n
+            • Tidak hanya fitur yang bervariasi, kelas ini juga membahas bagaimana membuat tampilan yang lebih cantik dengan memanfaatkan Animation.\n
+            • Kelas ini juga membahas tentang cara menjangkau lebih banyak pengguna dengan menggunakan Localization dan Accessibility.\n
+            • Banyak perusahaan yang membutuhkan Android developer yang tidak hanya bisa membuat fitur, namun juga memiliki keahlian untuk testing fitur yang sudah dibuat.\n
+            • Beberapa komponen yang diajarkan disiapkan untuk Anda mengikuti sertifikasi Associate Android Developer, seperti Custom View, Pre Populate Database, RawQuery, Paging.</item>
+        <item>Semua orang bisa membuat kode program selama dia tahu suatu bahasa pemrograman. Tetapi membuat kode program yang mudah dimengerti, mudah dikelola, dan mudah dikembangkan adalah tantangan yang nyata, bahkan untuk seorang yang sudah menjadi programmer sekalipun. Di dalam paradigma OOP (object-oriented programming), terdapat prinsip SOLID sebagai solusi yang bisa digunakan untuk menyelesaikan problem tersebut. Prinsip ini dikenalkan oleh Robert C. Martin, seorang engineer dan penulis dari buku Clean Code.\n
+            • Prinsip SOLID adalah salah satu fondasi utama dalam mengembangkan kode program agar lebih mudah dimengerti, dikelola, dan dikembangkan.\n
+            • Prinsip SOLID mampu diterapkan di banyak bahasa yang berparadigma OOP.\n
+            • Banyak perusahaan mensyaratkan pemahaman prinsip SOLID ketika mencari seorang developer.\n
+            • Menerapkan prinsip SOLID akan menghindarkan Anda dari membuat aplikasi yang mudah memiliki bug karena penerapan desain yang buruk.\n
+            • Beberapa bahasa pemrograman akan digunakan di kelas ini, sehingga apa pun bahasa yang sedang dipelajari, akan terbantu progres belajarnya.</item>
+        <item>Perusahaan berlomba membuat aplikasi Android agar dapat menjangkau pasar. Namun kesuksesan sebuah aplikasi terbentur kompetisi dan mahalnya biaya akuisisi user. Maka diperlukan aplikasi dengan performa tinggi supaya dapat bersaing dan tidak dihapus oleh user. Minimnya bug, keamanan, dan ukuran aplikasi adalah faktor lain yang perlu diperhatikan untuk kenyamanan user. Maka, pelajarilah di kelas ini cara membuat kode yang mudah diubah untuk mengikuti kebutuhan bisnis dan tidak rapuh ketika dikembangkan.\n
+            • Permintaan tinggi dari perusahaan untuk developer Android dengan ilmu expert karena minimnya kualitas developer di Indonesia.\n
+            • Materi yang diajarkan di kelas ini merupakan best-practice langsung dari industri sehingga dipastikan berguna untuk kebutuhan sehari-hari.\n
+            • Kemudahan untuk menyesuaikan aplikasi Anda dengan kebutuhan perusahaan melalui arsitektur kuat yang mudah dipelihara.\n
+            • Beberapa keahlian sudah menjadi prasyarat minimal untuk kerja di perusahaan teknologi seperti Reactive Programming dan Dependency Injection.\n
+            • Performance dan Security adalah hal yang harus Anda perhatikan jika ingin membuat aplikasi yang dipakai jutaan user.</item>
+        <item>Sudah 10 tahun lebih Android dikenalkan. Sejak saat itu, developer hanya mengenal satu cara untuk membuat UI, yakni dengan XML.. Namun, kini telah muncul cara baru yang lebih modern dan merevolusi cara untuk mendesain aplikasi, yakni Jetpack Compose. Ia adalah framework baru untuk mendesain layout UI yang keren dengan lebih cepat dan mudah, cukup menggunakan bahasa Kotlin saja. Melalui Jetpack Compose, Anda dapat membuat desain dengan pendekatan declarative yang lebih simpel dan kode yang lebih sedikit.\n
+            • Jetpack Compose merupakan masa depan dalam pembuatan UI di Android.\n
+            • Jetpack Compose membuat proses development aplikasi Android menjadi lebih simpel dan cepat.\n
+            • Anda hanya perlu menggunakan bahasa Kotlin untuk membuat aplikasi Android. Mulai dari menuliskan kode logika, hingga mendesain layout.\n
+            • Tren aplikasi modern saat ini menjurus ke penggunaan paradigma deklaratif, karena lebih intuitif dan straight forward.\n
+            • Jetpack Compose mendukung interoperability untuk XML, sehingga Anda bisa menerapkan teknologi baru secara bertahap.</item>
+        <item>Sertifikasi Associate Android Developer (AAD) merupakan bagian dari program Google Developers Certification yang bertujuan agar tersedia sertifikat terpercaya yang diakui oleh komunitas dan perusahaan. Seorang Associate Android Developer dapat mendemonstrasikan jenis keterampilan yang harus dimiliki pengembang Android standar global. Simulasi ujian ini telah disusun oleh Google Developers Authorized Training Partner agar Anda dapat mempersiapkan diri dengan matang sebelum mengambil ujian sertifikasi AAD.\n
+            • Lulusan program Google Developers Certification akan terdaftar di jaringan Google Developers Certification Directory. Situs ini digunakan oleh berbagai perusahaan untuk mencari developer yang kompeten dari negara mana pun.\n
+            • Simulasi ujian ini telah dibuat sesuai dengan checklist Google, sehingga sesuai dengan ujian sertifikasi yang asli.\n
+            • Curriculum developer dari simulasi ujian ini adalah lulusan dari ujian sertifikasi, sehingga simulasi dapat semirip mungkin dengan ujian aslinya.\n
+            • Simulasi ujian ini telah dipercaya langsung oleh Google dan digunakan dalam berbagai program milik Google seperti program Bangkit.</item>
+    </string-array>
+
+    <string-array name="data_target">
+        <item>• Kelas ditujukan bagi pemula yang ingin mulai belajar bidang pemrograman agar dapat menjadi pengembang software dengan mengacu pada standar okupasi Pengembang Software (kode okupasi KBJI: 2512.03, Indotask: 2512).\n
+            • Kelas dapat dikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Syarat minimum pendidikan adalah SMA atau sederajat.\n
+            • Kelas ini didesain untuk pemula sehingga tidak ada prasyarat dalam pemahaman pemrograman sebelumnya.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.</item>
+        <item>• Kelas ditujukan bagi pemula yang ingin mulai belajar logika pada bidang pemrograman dengan mengacu pada standar industri.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk pemula sehingga tidak ada prasyarat dalam pemahaman pemrograman sebelumnya.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.</item>
+        <item>• Kelas ini ditujukan bagi developer yang ingin mempelajari pengelolaan kode atau data menggunakan Git dengan GitHub agar bisa berkolaborasi dengan developer lain yang sesuai dengan standar industri.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk pemula sehingga tidak ada prasyarat dalam pemahaman pemrograman sebelumnya. Namun, akan lebih baik jika memiliki pengetahuan dasar tentang pemrograman.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat mengelola kumpulan data atau kode mereka sendiri dalam repository GitHub, serta dapat berkolaborasi dengan developer lain pada repository yang sama.</item>
+        <item>• Kelas ini ditujukan bagi yang ingin belajar dasar bahasa pemrograman Kotlin dengan mengacu pada standar kompetensi internasional milik Google Developers Authorized Training Partner.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk pemula sehingga tidak ada prasyarat dalam pemahaman pemrograman sebelumnya. Namun lulus dari kelas Pengenalan ke Dasar Pemrograman (Basic Programming 101) dan Pengenalan ke Logika Pemrograman (Programming Logic 101) akan mempermudah pembelajaran.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa paham tentang konsep dasar bahasa pemrograman, functional programming, serta object-oriented programming (OOP) dengan menggunakan Kotlin.</item>
+        <item>• Kelas ini ditujukan bagi pemula yang ingin memulai karirnya di bidang Android Developer dengan mengacu pada standar kompetensi internasional milik Google.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk siswa yang memiliki latar belakang dan pemahaman mengenai pemrograman menggunakan Kotlin atau Java.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat membuat aplikasi Android yang dapat menampilkan list dan detail data.</item>
+        <item>• Kelas ini ditujukan untuk pemula yang ingin mempelajari dasar-dasar UX beserta detail prosesnya dengan mengacu pada framework Design Thinking.\n
+            • Kelas ini dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk pemula sehingga tidak ada prasyarat dalam pemahaman pemrograman sebelumnya. Namun, akan lebih baik jika memiliki pengetahuan dasar tentang desain dan pemrograman.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat membuat sebuah portofolio berupa UX case study yang berisi keseluruhan proses, mulai dari mencari permasalahan pengguna, mendefinisikan masalah, melakukan eksplorasi, membuat prototype, sampai menguji cobanya.</item>
+        <item>• Kelas ditujukan bagi developer yang ingin belajar fundamental pembuatan aplikasi Android, seperti networking dan database, dengan mengacu pada standar kompetensi internasional milik Google Developers Authorized Training Partner.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk siswa yang memiliki latar belakang dan pemahaman mengenai pemrograman menggunakan Kotlin atau Java.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat membuat aplikasi yang dapat mengambil data dari Web API dan menyimpan data favorit menggunakan database lokal.</item>
+        <item>• Kelas ini ditujukan bagi Android Developer yang ingin meningkatkan skillnya untuk membuat aplikasi dengan mempelajari berbagai macam komponen Advance.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk developer yang familier dengan fundamental aplikasi Android, seperti Activity, Fragment, Intent, dan Navigation.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat membuat aplikasi dengan menerapkan komponen yang sudah dipelajari.</item>
+        <item>• Kelas ini ditujukan bagi pemula yang ingin memahami bagaimana menuliskan kode yang baik dengan paradigma OOP (object-oriented programming) dengan mengacu pada standar industri.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk siswa yang memiliki latar belakang dan pemahaman mengenai pemrograman menggunakan bahasa Kotlin, Java, Swift, JavaScript, Dart, atau Python.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat memahami kelima prinsip SOLID dan siap menerapkannya dalam mengembangkan aplikasi.</item>
+        <item>• Kelas ini ditujukan bagi Android Developer yang ingin menjadi Android Developer Expert dengan skill yang sering digunakan di dunia industri.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk Android developer yang paham fundamental aplikasi Android mulai dari layout sampai background process dan juga penggunaan komponen VIewModel, LiveData, serta Room untuk membangun aplikasi dengan Android Architecture Component.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat membuat aplikasi yang scalable dan maintainable dengan menerapkan berbagai macam komponen yang sering digunakan di dunia industri.</item>
+        <item>• Kelas ini ditujukan bagi Android Developer yang ingin meningkatkan skillnya untuk membuat aplikasi dengan mempelajari modern toolkit untuk mendesain UI.\n
+            • Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.\n
+            • Kelas ini didesain untuk developer yang familier dengan fundamental aplikasi Android, seperti Activity, Fragment, Intent, dan Navigation.\n
+            • Siswa harus bisa belajar mandiri, berkomitmen, benar-benar punya rasa ingin tahu, dan tertarik pada subjek materi, karena sebaik apa pun materi kelas ini, tidak akan berguna tanpa keseriusan siswa untuk belajar, berlatih, dan mencoba.\n
+            • Di akhir kelas, siswa dapat membuat aplikasi dengan menerapkan komponen yang sudah dipelajari.</item>
+        <item>• Kelas ditujukan bagi Android developer yang ingin mengambil ujian sertifikasi Associate Android Developer.\n
+            • Sebelum mengikuti simulasi ujian ini, Anda diharapkan memiliki pengalaman tentang Android development, khususnya tentang Android Architecture Component. Anda dapat belajar mengenai Android Architecture Componen di kelas Belajar Fundamental Aplikasi Android dan beberapa tambahan materi seperti Custom View, RawQuery, dan Paging di kelas Belajar Pengembangan Aplikasi Android Intermediate.\n
+            • Di akhir kelas, siswa dapat matang mempersiapkan diri mengikuti ujian sertifikasi Associate Android Developer.</item>
+    </string-array>
+</resources>

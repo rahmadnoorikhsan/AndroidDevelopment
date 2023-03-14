@@ -7,7 +7,7 @@ Submission Belajar Membuat Aplikasi Android untuk Pemula Dicoding Academy in Ban
 ## Submission Screenshots: 
 <table>
     <tr>
-        <td><img src="screenshot/android.gif" align="center" alt="4"</td>
+        <td><img src="screenshot/androidevelopment.gif" align="center" alt="4"</td>
         <td><img src="screenshot/splashrecycler.jpg" align="center" alt="4"</td>
         <td><img src="screenshot/recycler.jpg" align="center" alt="4"</td>
     </tr>
